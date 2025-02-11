@@ -21,5 +21,6 @@ https://cdn.jsdelivr.net/gh/xzw832/cmys@main/Z_15_weishi.txt
 https://cdn.jsdelivr.net/gh/wwwb521/live@main/tv.m3u
 https://cdn.jsdelivr.net/gh/MercuryZz/IPTVN@Files/IPV4.m3u
 https://cdn.jsdelivr.net/gh/qq254950134/my-iptv@main/final_streams.txt
+https://cdn.jsdelivr.net/gh/Wirili/IPTV@main/live.txt
 http://8.138.7.223/live.txt
 https://cdn.jsdelivr.net/gh/qaz1371041/tiaoshi@main/tv
