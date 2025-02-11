@@ -6,6 +6,7 @@ https://github.com/qq254950134/my-iptv
 https://github.com/sr1cky/TVBOX
 https://github.com/kimwang1978/collect-tv-txt *
 https://github.com/dwc1119/tv
+https://github.com/Wirili/IPTV
 
 影视
 https://github.com/huxuanming/tvbox-config
