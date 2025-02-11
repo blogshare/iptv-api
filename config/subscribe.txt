@@ -19,4 +19,6 @@ https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直�
 https://cdn.jsdelivr.net/gh/xzw832/cmys@main/Z_15_CCTV.txt
 https://cdn.jsdelivr.net/gh/xzw832/cmys@main/Z_15_weishi.txt
 https://cdn.jsdelivr.net/gh/wwwb521/live@main/tv.m3u
+https://cdn.jsdelivr.net/gh/MercuryZz/IPTVN@Files/IPV4.m3u
+https://cdn.jsdelivr.net/gh/qq254950134/my-iptv@main/final_streams.txt
 http://8.138.7.223/live.txt
