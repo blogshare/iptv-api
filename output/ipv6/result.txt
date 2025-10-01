@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-28 11:48:14,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-10-01 11:51:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -601,13 +601,12 @@ CCTV-17,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 周星驰,https://www.goodiptv.club/yy/1382736808
 周星驰,https://live.metshop.top/yy/29945997
 周星驰,https://www.goodiptv.club/yy/1354888671
-周星驰,https://www.goodiptv.club/huya/11342412
+周星驰,https://www.goodiptv.club/huya/11336587
 周润发,https://www.goodiptv.club/huya/11342387
 周润发,https://www.goodiptv.club/yy/1354889044
 王晶,https://www.goodiptv.club/huya/11602058
 成龙,https://www.goodiptv.club/yy/34460526
 成龙,https://www.goodiptv.club/yy/1354888751
-成龙,https://www.goodiptv.club/huya/11342386
 刘德华,https://www.goodiptv.club/huya/11342424
 漫威,http://data.3g.yy.com/live/hls/1382736803/1382736803
 漫威,https://www.goodiptv.club/huya/11602034
