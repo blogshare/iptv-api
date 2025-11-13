@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/blogshare/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-10 11:51:28
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-13 11:47:25
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1188,7 +1188,7 @@ https://live.metshop.top/yy/29945997
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🎬电影频道",周星驰
 https://www.goodiptv.club/yy/1354888671
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🎬电影频道",周星驰
-https://www.goodiptv.club/huya/11336587
+https://www.goodiptv.club/huya/11342412
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周润发.png" group-title="🎬电影频道",周润发
 https://www.goodiptv.club/huya/11342387
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周润发.png" group-title="🎬电影频道",周润发
@@ -1199,6 +1199,10 @@ https://www.goodiptv.club/huya/11602058
 https://www.goodiptv.club/yy/34460526
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="🎬电影频道",成龙
 https://www.goodiptv.club/yy/1354888751
+#EXTINF:-1 tvg-name="成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="🎬电影频道",成龙
+https://www.goodiptv.club/huya/11342386
+#EXTINF:-1 tvg-name="成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="🎬电影频道",成龙
+https://live.ottiptv.cc/huya/11342386
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刘德华.png" group-title="🎬电影频道",刘德华
 https://www.goodiptv.club/huya/11342424
 #EXTINF:-1 tvg-name="漫威" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/漫威.png" group-title="🎬电影频道",漫威
@@ -1219,6 +1223,8 @@ https://www.goodiptv.club/huya/11336590
 https://www.goodiptv.club/yy/1455988450
 #EXTINF:-1 tvg-name="鬼片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鬼片.png" group-title="🎬电影频道",鬼片
 https://www.goodiptv.club/yy/1463783198
+#EXTINF:-1 tvg-name="功夫电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/功夫电影.png" group-title="🎬电影频道",功夫电影
+https://live.ottiptv.cc/huya/11352941
 #EXTINF:-1 tvg-name="寻秦记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寻秦记.png" group-title="🎬电影频道",寻秦记
 https://live.metshop.top/yy/1382749900
 #EXTINF:-1 tvg-name="我和僵尸有个约会" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/我和僵尸有个约会.png" group-title="🎬电影频道",我和僵尸有个约会
