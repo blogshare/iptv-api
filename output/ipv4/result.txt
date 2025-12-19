@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2025-12-16 11:57:41,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-12-20 00:16:13,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
@@ -19,7 +20,6 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 🎬电影频道,#genre#
 林正英电影2,http://zzy789.xyz/douyu1.php?id=7356023
-邵氏影院,http://www.douzhicloud.site:35455/douyu/4246519
 功夫电影,http://www.douzhicloud.site:35455/huya/11352941
 
 🎥戏曲频道,#genre#
