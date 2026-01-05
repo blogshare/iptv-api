@@ -18,3 +18,5 @@ https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/CCTV.txt
 #http://8.138.7.223/51.txt
 https://live.zbds.top/tv/iptv4.txt
 http://150.158.112.123/live.txt
+https://live.hacks.tools/tv/iptv4.m3u
+https://live.hacks.tools/tv/iptv6.m3u
