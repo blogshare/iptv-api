@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/blogshare/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-20 00:48:11
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-23 00:20:37
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1084,8 +1084,6 @@ https://stream1.freetv.fun/4073fb5ec1ec48f010e1db882aeb63ddc7104c56c5c729c4d08e9
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-38.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 https://stream1.freetv.fun/jin-ying-qia-tong-32.ctv
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 https://stream1.freetv.fun/jin-ying-qia-tong-3.m3u8
@@ -1101,6 +1099,8 @@ https://stream1.freetv.fun/jin-ying-qia-tong-19.m3u8
 https://stream1.freetv.fun/1b907bbf4760e673ec9ab89e2327cd1d9e5df04ca6ef35a6fb07f5b6757f4791.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 https://stream1.freetv.fun/jin-ying-qia-tong-29.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
+http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁动画频道",黑莓动画
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁动画频道",黑莓动画
@@ -1284,7 +1284,7 @@ http://live.metshop.top/huya/11336587?cdn=alicdn
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🎬电影频道",周星驰
 https://lbds.us.ci/11342412
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🎬电影频道",周星驰
-https://www.goodiptv.club/huya/11342412
+https://www.goodiptv.club/huya/11336587
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周润发.png" group-title="🎬电影频道",周润发
 https://www.goodiptv.club/huya/11342387
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周润发.png" group-title="🎬电影频道",周润发
@@ -1303,8 +1303,6 @@ https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
 https://live.metshop.top/huya/11342386
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="🎬电影频道",成龙
 https://lbds.us.ci/11342386
-#EXTINF:-1 tvg-name="成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="🎬电影频道",成龙
-https://www.goodiptv.club/huya/11342386
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刘德华.png" group-title="🎬电影频道",刘德华
 https://www.goodiptv.club/huya/11342424
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刘德华.png" group-title="🎬电影频道",刘德华
@@ -1416,7 +1414,7 @@ https://stream1.freetv.fun/san-li-xi-ju-5.m3u8
 #EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧.png" group-title="🎥戏曲频道",三立戏剧
 https://stream1.freetv.fun/san-li-xi-ju-2.m3u8
 #EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧.png" group-title="🎥戏曲频道",三立戏剧
-https://stream1.freetv.fun/san-li-xi-ju-1.m3u8
+https://stream1.freetv.fun/san-li-xi-ju-4.m3u8
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七彩戏剧.png" group-title="🎥戏曲频道",七彩戏剧
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七彩戏剧.png" group-title="🎥戏曲频道",七彩戏剧
