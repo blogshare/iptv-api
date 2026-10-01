@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/blogshare/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-29 05:33:49
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-02 04:55:00
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1290,7 +1290,7 @@ https://lbds.us.ci/11342412
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🎬电影频道",周星驰
 https://live.ottiptv.cc/huya/11336587
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🎬电影频道",周星驰
-https://www.goodiptv.club/huya/11342412
+https://www.goodiptv.club/huya/11336587
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周润发.png" group-title="🎬电影频道",周润发
 https://www.goodiptv.club/huya/11342387
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周润发.png" group-title="🎬电影频道",周润发
@@ -1311,8 +1311,6 @@ https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
 https://live.metshop.top/huya/11342386
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="🎬电影频道",成龙
 https://lbds.us.ci/11342386
-#EXTINF:-1 tvg-name="成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="🎬电影频道",成龙
-https://www.goodiptv.club/huya/11342386
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刘德华.png" group-title="🎬电影频道",刘德华
 https://www.goodiptv.club/huya/11342424
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刘德华.png" group-title="🎬电影频道",刘德华
