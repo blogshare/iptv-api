@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-08 05:30:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-10-11 03:42:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -652,7 +652,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 周星驰,http://live.metshop.top/huya/11336587?cdn=alicdn
 周星驰,https://lbds.us.ci/11342412
 周星驰,https://live.ottiptv.cc/huya/11336587
-周星驰,https://www.goodiptv.club/huya/11336587
+周星驰,https://www.goodiptv.club/huya/11342412
 周润发,https://www.goodiptv.club/huya/11342387
 周润发,https://www.goodiptv.club/yy/1354889044
 王晶,https://www.goodiptv.club/huya/11602058
@@ -663,6 +663,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 成龙,https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
 成龙,https://live.metshop.top/huya/11342386
 成龙,https://lbds.us.ci/11342386
+成龙,https://www.goodiptv.club/huya/11342386
 刘德华,https://www.goodiptv.club/huya/11342424
 刘德华,https://t.freetv.fun/live/liu-de-hua.flv
 刘德华,https://live.iill.top/huya/11342424
